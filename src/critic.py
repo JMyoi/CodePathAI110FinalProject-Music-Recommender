@@ -54,7 +54,13 @@ class HeuristicCritic:
         per_song: Dict[int, str] = {}
         for r in recs:
             cov = r.confidence.breakdown.get("coverage", 0.0)
-            if cov >= 0.75:
+            song_catalog_fit = r.confidence.breakdown.get("catalog_fit", 0.0)
+            if song_catalog_fit == 0.0:
+                per_song[r.scored.song.id] = (
+                    f"Wrong genre ({r.scored.song.genre}, not {user.favorite_genre}) — "
+                    "system fell back to feature similarity."
+                )
+            elif cov >= 0.75:
                 per_song[r.scored.song.id] = "Hits most of the user's preferences."
             elif cov >= 0.5:
                 per_song[r.scored.song.id] = "Partial match — a few preferences missed."
