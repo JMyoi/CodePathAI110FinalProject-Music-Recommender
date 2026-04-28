@@ -1,0 +1,41 @@
+id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
+1,I Wanna Dance with Somebody,Whitney Houston,pop,happy,0.85,119,0.86,0.78,0.18
+2,i'll keep you safe,sleepy fish,lofi,chill,0.42,78,0.56,0.62,0.71
+3,Holiday,Green Day,rock,intense,0.91,148,0.66,0.55,0.10
+4,Eventually,Tatsuro Yamashita,lofi,chill,0.35,72,0.60,0.58,0.86
+5,Bad Romance,Lady Gaga,pop,intense,0.92,119,0.71,0.74,0.05
+6,Weightless,Marconi Union,ambient,chill,0.20,60,0.40,0.30,0.95
+7,Take Five,Dave Brubeck Quartet,jazz,relaxed,0.37,87,0.70,0.54,0.89
+8,Nightcall,Kavinsky,synthwave,moody,0.65,116,0.30,0.62,0.20
+9,Snowfall,Øneheart & reidenshi,lofi,focused,0.32,80,0.40,0.45,0.78
+10,Young Folks,Peter Bjorn and John,indie pop,happy,0.66,124,0.81,0.78,0.30
+11,Pink + White,Frank Ocean,r&b,relaxed,0.45,80,0.62,0.71,0.42
+12,Harder Better Faster Stronger,Daft Punk,electronic,intense,0.88,124,0.65,0.84,0.06
+13,The Night We Met,Lord Huron,folk,melancholy,0.32,76,0.20,0.42,0.88
+14,Mr. Brightside,The Killers,indie rock,happy,0.93,148,0.86,0.55,0.10
+15,Whiskey Lullaby,Brad Paisley & Alison Krauss,country,melancholy,0.30,92,0.18,0.41,0.72
+16,Clair de Lune,Claude Debussy,classical,relaxed,0.10,66,0.30,0.20,0.97
+17,The Thrill Is Gone,B.B. King,blues,moody,0.55,100,0.41,0.62,0.55
+18,Three Little Birds,Bob Marley & The Wailers,reggae,happy,0.50,76,0.88,0.79,0.30
+19,Sittin' On The Dock of the Bay,Otis Redding,soul,relaxed,0.40,103,0.62,0.65,0.50
+20,Alright,Kendrick Lamar,hip-hop,moody,0.65,110,0.50,0.83,0.18
+21,i,Kendrick Lamar,hip-hop,happy,0.82,92,0.81,0.74,0.10
+22,Passionfruit,Drake,hip-hop,chill,0.50,112,0.45,0.81,0.20
+23,Thinkin Bout You,Frank Ocean,r&b,romantic,0.40,85,0.55,0.60,0.40
+24,Around the World,Daft Punk,electronic,focused,0.72,121,0.50,0.81,0.08
+25,Midnight City,M83,electronic,chill,0.55,105,0.55,0.65,0.20
+26,Ends of the Earth,Lord Huron,folk,nostalgic,0.45,96,0.55,0.50,0.85
+27,When You Were Young,The Killers,indie rock,moody,0.78,135,0.45,0.55,0.20
+28,Wagon Wheel,Old Crow Medicine Show,country,happy,0.65,76,0.78,0.65,0.65
+29,Nocturne Op. 9 No. 2,Frédéric Chopin,classical,melancholy,0.18,60,0.30,0.20,0.97
+30,Pride and Joy,Stevie Ray Vaughan,blues,intense,0.78,120,0.55,0.65,0.20
+31,What's Going On,Marvin Gaye,soul,moody,0.50,100,0.50,0.70,0.30
+32,Dog Days Are Over,Florence + The Machine,indie pop,energetic,0.85,150,0.62,0.55,0.30
+33,A Real Hero,College & Electric Youth,synthwave,romantic,0.55,108,0.45,0.62,0.20
+34,Lavender,Kupla,lofi,focused,0.36,78,0.52,0.54,0.74
+35,Born This Way,Lady Gaga,pop,energetic,0.85,124,0.70,0.81,0.05
+36,What a Wonderful World,Louis Armstrong,jazz,nostalgic,0.30,88,0.50,0.40,0.85
+37,Welcome to the Jungle,Guns N' Roses,rock,intense,0.95,124,0.65,0.50,0.05
+38,Snowman,WYS,lofi,melancholy,0.30,72,0.32,0.45,0.85
+39,An Ending (Ascent),Brian Eno,ambient,melancholy,0.10,50,0.20,0.15,0.95
+40,Riptide,Vance Joy,indie pop,chill,0.55,102,0.65,0.65,0.45
