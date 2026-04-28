@@ -30,7 +30,11 @@ Walk through them quickly. **Don't read code.** Just name each layer and what it
 
 ## 1:15–3:15 — Live demo (2 minutes — the heart of the talk)
 
-Open `streamlit run src/app.py` and narrate as you click. Three runs:
+python -m src.demo 
+
+Talk through the three scenarios as the output appears (this hits rubric items 4, 5, and gives you the "AI feature behavior" + "clear outputs for each case" beats from the [IMPORTANT] block).
+
+Open `python -m streamlit run src/app.py` and narrate as you click. Three runs:
 
 ### Run 1 — happy path + the artist-diversity moment (~50s)
 
@@ -127,5 +131,5 @@ Be honest. Graders love this.
 pip install -r requirements.txt    # gets the new deps
 pytest                             # 20 tests
 python -m src.main                 # CLI
-streamlit run src/app.py           # UI
+python -m streamlit run src/app.py           # UI
 ```
