@@ -1,5 +1,7 @@
 # 🎵 VibeFinder — Music Recommender with Self-Critique
 
+Loom Link: https://www.loom.com/share/82db64c9edd241a7b710539561666fe3
+
 A music recommender extended with a confidence score and an LLM self-critique loop. Built for AI110 Module 3 final project.
 
 > **Companion docs:** [howItWorks.md](howItWorks.md) (architecture deep-dive) · [model_card.md](model_card.md) (model card) · [REFLECTION.md](REFLECTION.md) (AI-collaboration reflection) · [presentation.md](presentation.md) (5-minute talk script)
